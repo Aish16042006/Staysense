@@ -3,7 +3,7 @@ export default function Navbar() {
     <nav className="bg-blue-600 text-white p-4 flex justify-between items-center shadow-md">
       <h1 className="text-2xl font-bold">StaySense AI</h1>
 
-      <div className="space-x-6">
+      <div className="space-x-8 font-medium">
         <a
           href="/"
           className="hover:text-gray-200 hover:underline transition duration-300"
